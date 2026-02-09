@@ -2,6 +2,7 @@
 
 A machine learning-powered web application that predicts blood donor availability using logistic regression and advanced feature engineering.
 
+
 ## 🎯 Features
 
 - **ML-Powered Predictions**: Logistic regression model with enhanced feature engineering
@@ -40,7 +41,7 @@ donor_app_full/
 - Python 3.8+
 - pip package manager
 
-### Installation
+### Installations
 
 1. **Clone the repository:**
    ```bash
